@@ -83,12 +83,12 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>linux Ubuntu</li>
+  	    <li><b>OS:</b> Linux Ubuntu & Windows 11</li>
   	    <li><b>Browser: </b> Chrome & FireFox</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>IDE:</b> Visual Studio- The best IDE i have ever used</li>
  	    <li><b>Other Tools:</b> Postman</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	    <li><b>To Stay Updated:</b> learn.microsoft, Youtube channels /li>
 	</ul>
 </details>
  
