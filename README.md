@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-<h3>Passionate backend developer building robust applications with .NET Core and C#. 🚀</h3>
+<h3>I'm a passionate backend developer building robust applications with .NET Core and C#. 🚀</h3>
 
 As a third-year Computer Science student, I've honed my skills in crafting secure and performant backend systems. My experience includes building public RESTful APIs (e.g., board game data) and internal APIs for e-commerce platforms.
 
