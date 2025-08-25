@@ -27,7 +27,7 @@ Connect with me to discuss backend development, .NET Core, or exciting project o
 - 🛠 &nbsp; I’m currently working with C#, ASP.NET CORE,etc.
 - 🚀 &nbsp; I’m currently exploring Web Security, Common web attacks, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: ahmednabil3400@gmail.com.
+- 📫 &nbsp; Reach me out: ahmednabil3500@gmail.com.
 
 ### My Absolute Favorites:
 
