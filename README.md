@@ -19,10 +19,14 @@
 As a **recent Computer Science graduate**, I specialize in end-to-end development—crafting robust backends with **ASP.NET Core** and **Entity Framework Core**, and dynamic, responsive UIs with **React** and **Tailwind CSS**.  
 
 My experience includes:
-- Building public RESTful APIs (e.g., board game data services)
-- Developing internal e-commerce platforms with secure authentication & authorization
-- Implementing caching, logging, and performance optimizations
-- Applying web security best practices to defend against common attacks (XSS, CSRF, SQLi, etc.)
+
+- Building secure, high-performance web applications using ASP.NET Core, C#, and Entity Framework Core for robust backend systems.
+- Designing and consuming RESTful APIs with proper error handling, versioning, and documentation.
+- Developing responsive, user-friendly interfaces with React, TypeScript, and Tailwind CSS—prioritizing accessibility, performance, and maintainability.
+- Implementing authentication & authorization (JWT, Identity) and applying web security best practices to mitigate common threats like XSS, CSRF, and SQL injection.
+- Optimizing application performance through caching strategies, efficient database design, and async programming patterns.
+
+
 
 Let’s connect to discuss full-stack development, .NET, React, or exciting new opportunities!
 
