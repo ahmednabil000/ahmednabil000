@@ -14,28 +14,25 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ahmednabil000.ahmednabil000&style=flat-square&color=0088cc)
 
-<h3>I'm a passionate full-stack developer building modern, secure, and scalable applications with .NET Core, React, and cloud-ready architectures. 🚀</h3>
-
-As a **recent Computer Science graduate**, I specialize in end-to-end development—crafting robust backends with **ASP.NET Core** and **Entity Framework Core**, and dynamic, responsive UIs with **React** and **Tailwind CSS**.  
+<h3>I'm a passionate full-stack developer building modern, secure, and scalable applications with Node.js (express & nestjs), React, and cloud-ready architectures. 🚀</h3>
 
 My experience includes:
 
-- Building secure, high-performance web applications using ASP.NET Core, C#, and Entity Framework Core for robust backend systems.
+- Building secure, high-performance web applications using Node.js, javascript, and ant ORM for robust backend systems.
 - Designing and consuming RESTful APIs with proper error handling, versioning, and documentation.
-- Developing responsive, user-friendly interfaces with React, TypeScript, and Tailwind CSS—prioritizing accessibility, performance, and maintainability.
+- Developing responsive, user-friendly interfaces with React, Javascript, TypeScript, and Tailwind CSS—prioritizing accessibility, performance, and maintainability.
 - Implementing authentication & authorization (JWT, Identity) and applying web security best practices to mitigate common threats like XSS, CSRF, and SQL injection.
 - Optimizing application performance through caching strategies, efficient database design, and async programming patterns.
 
 
 
-Let’s connect to discuss full-stack development, .NET, React, or exciting new opportunities!
+Let’s connect to discuss full-stack development, Node.js, React, or exciting new opportunities!
 
 <img align="right" height="250" width="375" alt="Coding animation" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; Currently building full-stack apps with **C#, ASP.NET Core, React, and Tailwind CSS**
-- 🗄 &nbsp; Using **Entity Framework Core** for efficient data access and migrations
+- 🛠 &nbsp; Currently building full-stack apps with **Javascript, Node.js, React, and Tailwind CSS**
 - 🔒 &nbsp; Deepening my expertise in **Web Security** and mitigation of common web attacks
 - 🎓 &nbsp; **Graduated** with a B.Sc. in Computer Science!
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
